@@ -1,3 +1,40 @@
 header{
     background-color: rgb(163, 157, 157);
 }
+.title {
+    color: rgb(86, 86, 123);
+    text-align: center;
+}
+.PC {
+    color: rgb(123, 86, 86);
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+.chek-list {
+    text-align: left;
+    margin-left: 25%;
+}
+.perevagu {
+    text-align: center;
+    color: rgb(86, 123, 86);
+}
+.why-my {
+    text-align: center;
+    color: rgb(123, 86, 123);
+}
+.where-to-buy {
+    text-align: center; 
+}
+.social-links .link {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    padding: 0;
+}
+.social-links .link:hover {
+    text-decoration: none;
+    color: rgb(201, 101, 114);
+}
